@@ -6,10 +6,10 @@ This project will address the problems with DETR model using a modified version 
 Some techniques that will be used includes implementing Denoising DETR, lowering the number of decoder layers and queries, and implementing Automatic Mixed Precision training. Overall the highest accuracy with the IoU threshold of 0.5 achieved was 0.608%, with an improved inference speed of 0.0582s and number of parameters reduced to 38,474,714.
 Feel free to checkout my report and presentation for more details! 
 
-**Note:** I've also included the final code I've written to achieve my performance, as well as the dataset, collab notebook, and final trained model. The dataset, final model, and model used for initial training are found below:
-Data: https://drive.google.com/file/d/1LjkrqlCuNAhwV3yFGEOt0AzZj4lqUPR_/view?usp=sharing
-Final Model: https://drive.google.com/file/d/1nFxZB06vyVzhkY9s8BXKBWmHOpmPUVjY/view?usp=sharing
-Model used for training: https://drive.google.com/file/d/1MuY1ZMWpNzp3gpPgxws2sb5mAO96tn_v/view?usp=sharing
+**Note:** I've also included the final code I've written to achieve my performance, as well as the dataset, collab notebook, and final trained model. The dataset, final model, and model used for initial training are found below:<br>
+Data: https://drive.google.com/file/d/1LjkrqlCuNAhwV3yFGEOt0AzZj4lqUPR_/view?usp=sharing<br>
+Final Model: https://drive.google.com/file/d/1nFxZB06vyVzhkY9s8BXKBWmHOpmPUVjY/view?usp=sharing<br>
+Model used for training: https://drive.google.com/file/d/1MuY1ZMWpNzp3gpPgxws2sb5mAO96tn_v/view?usp=sharing<br>
 
 <p align="center"> 
   <img width="1136" height="352" alt="image" src="https://github.com/user-attachments/assets/1627335a-6677-4168-b65f-d092398db64a" />
@@ -18,5 +18,6 @@ Model used for training: https://drive.google.com/file/d/1MuY1ZMWpNzp3gpPgxws2sb
   <img width="779" height="325" alt="image" src="https://github.com/user-attachments/assets/32d06124-528e-40a7-8374-97ce108c46a2" />
   <img width="382" height="223" alt="image" src="https://github.com/user-attachments/assets/e63289f3-49e1-4758-b761-91bb699de4ca" />
 </p>
+
 
 
